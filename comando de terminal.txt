@@ -1,0 +1,5 @@
+git branch -d [nombre de la rama] (elimina una rama)
+
+git gc (hace limpieza del repositorio de la basura o de las cosas que se eliminan)
+
+git commit -amend (hace un cambio despues de un commit para editar o agregar mas archivos, solo antes de un push para evitar problemas)
